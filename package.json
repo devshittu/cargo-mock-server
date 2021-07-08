@@ -1,0 +1,16 @@
+{
+  "name": "cargo-mock-server",
+  "version": "1.0.0",
+  "main": "mock-server.js",
+  "scripts": {
+    "dev": "nodemon mock-server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependency": {
+    "nodemon": "^2.0.10"
+  }
+
+}
